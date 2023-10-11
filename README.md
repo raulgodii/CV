@@ -23,8 +23,12 @@
 ###
 
 <h2 align="left">- CAREER PROFILE</h2>
-![image](https://github.com/raulgodii/CV/assets/102313699/027c2045-91aa-4c32-9c7d-49400d9cc24c)
 
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/RFcWJsNH/imagen-2023-10-11-164021522.png"  />
+</div>
 
 ###
 
@@ -32,7 +36,19 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/KYTzCq7H/imagen-2023-10-11-164110860.png"  />
+</div>
+
+###
+
 <h2 align="left">- OTHER TECHNOLOGIES AND EXPERTISE</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/tRkT0VPp/image.png"  />
+</div>
 
 ###
 
@@ -40,7 +56,19 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/HsjTfvd9/image.png"  />
+</div>
+
+###
+
 <h2 align="left">- ACHIEVEMENTS (CERTIFICATIONS, COURSES, TALKS)</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/8C43kDbJ/imagen-2023-10-11-164301284.png"  />
+</div>
 
 ###
 
@@ -48,7 +76,19 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/26Mfmrzd/image.png"  />
+</div>
+
+###
+
 <h2 align="left">- EDUCATION</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/6QQsvyqL/image.png"  />
+</div>
 
 ###
 
@@ -56,6 +96,18 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/9QJKCCb4/image.png"  />
+</div>
+
+###
+
 <h2 align="left">-CONTACT</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/cChMw4rw/image.png"  />
+</div>
 
 ###
